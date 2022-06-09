@@ -1,4 +1,4 @@
-
+import './App.css';
 import { candies } from './candies.js';
 import CandiesList from './CandiesList';
 import { friends } from './Friends.js';
