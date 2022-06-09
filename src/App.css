@@ -58,3 +58,24 @@
   display: flex;
   flex-wrap: wrap;
 }
+
+.friendGroup {
+  border-radius: 10px;
+  box-shadow: 3px 3px 15px 3px rgb(255, 8, 8);
+  padding: 10px;
+  margin: 10px;
+  background-color: #282c34;
+}
+
+.friend-item {
+  display: flex;
+  flex-wrap: wrap;
+}
+.books-list {
+  border-radius: 10px;
+  box-shadow: 3px 3px 15px 3px rgb(255, 8, 8);
+  padding: 10px;
+  margin: 10px;
+  background-color: #282c34;
+}
+
