@@ -7,7 +7,7 @@ export default function GameItem({
   boxColor,
 }) {
   return (
-    <div className='game' style={{ boxShadow: 10 }}>
+    <div className='game' style={{ boxShadow: boxColor }}>
       <p>This Game Is {name}</p>
       <p>You Can Play Up To {players}</p>
       <p>And This Game Is a {type} Type Game </p>
