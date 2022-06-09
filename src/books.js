@@ -1,6 +1,6 @@
 export const books = [
   {
-    name:'Shteven VonHelMightCan',
+    name:'Shriven VonHelMightCan',
     type:'Fiction',
     book: ['Take Me To WanderLand', 'Silly Sally Sue And The Wondering Trolls', 'Kyle And His Friend Dragon']
   },
@@ -12,6 +12,6 @@ export const books = [
   {
     name:'Craig wheeler',
     type:'Fiction',
-    book: ['Humpty Dumpty Loves Fried Eggs', 'Charlie And The Haunted Factory', 'The Boogie Man Part ||']
+    book: ['Humpy Dumpy Loves Fried Eggs', 'Charlie And The Haunted Factory', 'The Boogie Man Part ||']
   },
 ];
